@@ -17,7 +17,7 @@ I am a final-year IT Engineering student at Télécom Saint-Étienne (ranked 1st
 
 ## 🚀 Featured Projects
 
-### Detection and Classification of Cardinal Buoys (Repository in Progress)
+### Detection and Classification of Cardinal Buoys
 A comparative study of three Computer Vision pipelines to detect and classify maritime cardinal buoys.
 *   Evaluated classical morphological/color analysis, Machine Learning (HOG + SVM, K-Means), and Deep Learning (YOLOv8n, ResNet-18).
 *   Assessed precision vs. computational cost trade-offs using metrics like IoU and F1-Score.
