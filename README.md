@@ -10,7 +10,7 @@ I am a final-year IT Engineering student at Télécom Saint-Étienne (ranked 1st
 *   **Recent Experience:** Research Intern at Laboratoire Hubert Curien, where I implemented a Deep Unrolling model (DU-Grad) using PyTorch for digital holography reconstruction on simulated and experimental microscopic flows.
 
 ## 🛠️ Technical Arsenal
-*   **Languages:** Python, C++, MATLAB
+*   **Languages:** Python, MATLAB
 *   **Deep Learning & ML:** PyTorch, Torchvision, Scikit-learn
 *   **Computer Vision:** OpenCV, NumPy, SciPy
 *   **Tools & MLOps:** Git, Label Studio
